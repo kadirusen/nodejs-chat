@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-chat",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Kadir Ruşen <krusen@dogantv.com.tr>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "chat",
+    "nodejs"
+  ],
+  "homepage": "https://github.com/kadirusen/nodejs-chat",
+  "dependencies": {
+    "angular": "^1.8.1"
+  }
+}
