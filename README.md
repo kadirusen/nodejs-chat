@@ -2,7 +2,7 @@
 ## Clone repo and install dependencies
 `git clone https://github.com/kadirusen/nodejs-chat.git`
 
-`cd thechatfather`
+`cd nodejs-chat`
 
 `npm install`
 
