@@ -1,6 +1,6 @@
 # How to install
 ## Clone repo and install dependencies
-`git clone https://github.com/meseven/thechatfather.git`
+`git clone https://github.com/kadirusen/nodejs-chat.git`
 
 `cd thechatfather`
 
